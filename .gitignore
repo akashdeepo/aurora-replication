@@ -4,3 +4,4 @@ vendor/
 data/*.csv
 results/*.npz
 .venv/
+.pytest_cache/

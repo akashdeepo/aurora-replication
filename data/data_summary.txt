@@ -1,0 +1,4 @@
+SPX   ^GSPC     5474 returns  2005-01-04 -> 2026-10-07  mean +0.034%  sd 1.197%  min -12.77%  max +10.96%  excess kurtosis 13.3  |r|>25%: 0
+AAPL  AAPL      5474 returns  2005-01-04 -> 2026-10-07  mean +0.107%  sd 2.014%  min -19.75%  max +14.26%  excess kurtosis 6.1  |r|>25%: 0
+JPM   JPM       5474 returns  2005-01-04 -> 2026-10-07  mean +0.049%  sd 2.224%  min -23.23%  max +22.39%  excess kurtosis 18.3  |r|>25%: 0
+BTC   BTC-USD   4404 returns  2014-09-18 -> 2026-10-08  mean +0.118%  sd 3.480%  min -46.47%  max +22.51%  excess kurtosis 12.0  |r|>25%: 1

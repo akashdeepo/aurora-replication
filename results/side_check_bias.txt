@@ -1,0 +1,10 @@
+asset | realised mean | Aurora rel. mean fc | Aurora corr. mean fc | GARCH mean fc | sign hit-rate of Aurora median (rel/corr) | corr(mean fc, realised) rel/corr
+SPX   | +0.051 | -0.013 | -0.053 | +0.107 | 49.1% / 45.5%  (up-day share 54.1%) | -0.119 / -0.117
+AAPL  | +0.091 | +0.017 | -0.028 | +0.158 | 48.9% / 48.4%  (up-day share 53.1%) | -0.048 / -0.041
+JPM   | +0.061 | -0.032 | -0.095 | +0.106 | 50.3% / 47.4%  (up-day share 53.0%) | -0.080 / -0.076
+BTC   | +0.099 | +0.014 | -0.057 | +0.082 | 49.5% / 49.3%  (up-day share 50.6%) | -0.067 / -0.075
+corr(Aurora released mean forecast, realised next-day return), and corr(today return, next-day return) for context
+SPX   all: -0.119   excl. COVID crash: -0.033 (SE ~0.025)   | corr(fc, today's return) +0.75   lag-1 autocorr of returns (excl. crash) -0.032
+AAPL  all: -0.048   excl. COVID crash: +0.010 (SE ~0.025)   | corr(fc, today's return) +0.72   lag-1 autocorr of returns (excl. crash) -0.001
+JPM   all: -0.080   excl. COVID crash: +0.006 (SE ~0.025)   | corr(fc, today's return) +0.74   lag-1 autocorr of returns (excl. crash) +0.004
+BTC   all: -0.067   excl. COVID crash: -0.036 (SE ~0.020)   | corr(fc, today's return) +0.76   lag-1 autocorr of returns (excl. crash) -0.031

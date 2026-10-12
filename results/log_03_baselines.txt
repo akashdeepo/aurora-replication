@@ -1,0 +1,8 @@
+SPX: 26 ms per origin -> ~0.7 min
+SPX: 1699 origins done in 0.9 min
+AAPL: 31 ms per origin -> ~0.9 min
+AAPL: 1699 origins done in 0.8 min
+JPM: 32 ms per origin -> ~0.9 min
+JPM: 1699 origins done in 0.9 min
+BTC: 52 ms per origin -> ~2.1 min
+BTC: 2472 origins done in 1.7 min

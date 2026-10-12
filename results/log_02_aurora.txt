@@ -1,0 +1,18 @@
+model loaded in 1.8s; parameters: 210.8M
+released SPX: 270 ms per forecast -> ~7.7 min for 1699 forecasts
+released SPX: 1699 forecasts in 6.4 min -> aurora_released_SPX.npz
+released AAPL: 218 ms per forecast -> ~6.2 min for 1699 forecasts
+released AAPL: 1699 forecasts in 6.2 min -> aurora_released_AAPL.npz
+released JPM: 220 ms per forecast -> ~6.2 min for 1699 forecasts
+released JPM: 1699 forecasts in 6.2 min -> aurora_released_JPM.npz
+released BTC: 215 ms per forecast -> ~8.9 min for 2472 forecasts
+released BTC: 2472 forecasts in 9.0 min -> aurora_released_BTC.npz
+corrected SPX: 217 ms per forecast -> ~6.1 min for 1699 forecasts
+corrected SPX: 1699 forecasts in 6.1 min -> aurora_corrected_SPX.npz
+corrected AAPL: 218 ms per forecast -> ~6.2 min for 1699 forecasts
+corrected AAPL: 1699 forecasts in 6.1 min -> aurora_corrected_AAPL.npz
+corrected JPM: 215 ms per forecast -> ~6.1 min for 1699 forecasts
+corrected JPM: 1699 forecasts in 6.1 min -> aurora_corrected_JPM.npz
+corrected BTC: 216 ms per forecast -> ~8.9 min for 2472 forecasts
+corrected BTC: 2472 forecasts in 8.9 min -> aurora_corrected_BTC.npz
+total 55.1 min

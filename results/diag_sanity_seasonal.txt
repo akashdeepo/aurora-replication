@@ -1,0 +1,9 @@
+model loaded in 1.6s; parameters: 210.8M
+50 noisy seasonal series, 48-step forecasts (released sampler):
+  corr(median forecast, truth): mean 0.94
+  90% interval coverage:        mean 47.9%
+  MASE Aurora median 0.761  vs seasonal-naive 0.829  (lower is better)
+50 noisy seasonal series, 48-step forecasts (corrected sampler):
+  corr(median forecast, truth): mean 0.93
+  90% interval coverage:        mean 77.6%
+  MASE Aurora median 0.785  vs seasonal-naive 0.829  (lower is better)
